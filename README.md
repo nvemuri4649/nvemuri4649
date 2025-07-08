@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-![image](/random_number.png)
+<img src="/random_number.png" alt="random number" width="100%">
 
 <!--
 **nvemuri4649/nvemuri4649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
