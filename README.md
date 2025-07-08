@@ -1,4 +1,4 @@
-<<!--## Hi there 👋-->
+<!--## Hi there 👋-->
 
 https://imgs.xkcd.com/comics/random_number.png
 
