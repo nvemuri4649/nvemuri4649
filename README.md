@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-<img src="/random_number.png" alt="xkcd 221" width="100%">
+<img src="/random_number.png" alt="xkcd 221" width="70%">
 
 xkcd 221
 
